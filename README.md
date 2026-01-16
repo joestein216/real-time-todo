@@ -1,4 +1,4 @@
-# Amazon Robotics Todo Take-Home (React + Vite + RTK, Node + Express + TS)
+# Real-time Todo with live WebSockets updates (React + Vite + RTK, Node + Express + TS + WebSockets)
 
 This project is a **full-stack** Todo app with **categories**, **grouped views**, **client-side filter/sort**, and a **thin real-time layer** (Socket.io).
 
